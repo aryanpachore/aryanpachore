@@ -12,6 +12,20 @@ I am a final-year **B.Tech Computer Science & Engineering** student at **VIT Bho
 
 ---
 
+### 📊 Coding Profiles
+
+<p align="left">
+  <a href="https://github.com/aryanpachore">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpachore&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+  
+  <a href="https://leetcode.com/u/aryanpachore2004/">
+    <img src="https://leetcard.app/api?username=aryanpachore2004&theme=radical&font=Inter&hide_border=true" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
