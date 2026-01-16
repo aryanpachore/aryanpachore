@@ -6,9 +6,8 @@
 ### 👨‍💻 About Me
 I am a final-year **B.Tech Computer Science & Engineering** student at **VIT Bhopal** with a passion for building scalable web applications and integrating Generative AI solutions. I have a strong foundation in Full Stack Development and Cloud Architecture.
 
-* 🎓 **Education:** B.Tech CSE, Vellore Institute of Technology, Bhopal (CGPA: 8.34)
+* 🎓 **Education:** B.Tech CSE, Vellore Institute of Technology, Bhopal
 * 🏆 **Achievements:** * **2nd Place** in Splunk by Cisco Build-a-thon 2025 (Top 1500+ teams)
-    * **Finalist** in Smart India Hackathon (2023 & 2024)
 * 📜 **Certifications:** OCI Generative AI Professional, Salesforce Development
 
 ---
