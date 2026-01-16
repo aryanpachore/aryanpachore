@@ -1,7 +1,8 @@
 # Hi there, I'm Aryan Pachore! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-pachore-ab89a7250/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-pachore)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:aryanpachore2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-seven-sable-66.vercel.app/)
 
 ### 👨‍💻 About Me
 I am a final-year **B.Tech Computer Science & Engineering** student at **VIT Bhopal** with a passion for building scalable web applications and integrating Generative AI solutions. I have a strong foundation in Full Stack Development and Cloud Architecture.
