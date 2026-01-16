@@ -60,8 +60,13 @@ I am a final-year **B.Tech Computer Science & Engineering** student at **VIT Bho
 ---
 
 ### 📊 GitHub Stats
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanpachore&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpachore&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpachore&theme=radical" alt="Aryan's Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpachore&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
